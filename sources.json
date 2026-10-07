@@ -1,0 +1,84 @@
+{
+  "restaurant": "El Gato Negro",
+  "checked_on": "2026-10-01",
+  "content_source": "https://lithuania.travel/lt/ka-nuveikti/ka-paragauti/michelin-guide-lietuvoje/bib-gourmand/el-gato-negro",
+  "photos": [
+    {
+      "file": "assets/photo-01.jpg",
+      "width": 900,
+      "height": 1600,
+      "description": "Tacos with colorful garnish",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz03397.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-02.jpg",
+      "width": 1280,
+      "height": 1600,
+      "description": "Mexican dish and cocktail on striped textile",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz00759.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-03.jpg",
+      "width": 1600,
+      "height": 1600,
+      "description": "Rice dish with cocktail and tamales",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz00886.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-04.jpg",
+      "width": 1600,
+      "height": 1600,
+      "description": "Margaritas on colorful table",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz03429.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-05.jpg",
+      "width": 1280,
+      "height": 1600,
+      "description": "Mexican skillet dish",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz03439.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-06.jpg",
+      "width": 1600,
+      "height": 1067,
+      "description": "Shared Mexican feast, hands only",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz03536.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-07.jpg",
+      "width": 1280,
+      "height": 1600,
+      "description": "Diner eating tacos, hands only",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz03556-2.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    },
+    {
+      "file": "assets/photo-08.jpg",
+      "width": 1600,
+      "height": 1600,
+      "description": "Chef garnishing grilled corn, hands only",
+      "source_url": "https://el-gato-negro.tablein.com/lt",
+      "image_url": "https://backend.app.tablein.com/storage/restaurants/8444309/gallery/kuz03658.jpg",
+      "reuse": "Unknown; publicly displayed listing photograph"
+    }
+  ],
+  "review_note": "8 authentic photos.",
+  "google_maps_status": "Direct Google Maps closure status could not be confirmed.",
+  "photo_rights": "Source photographs are authentic; no explicit republication license verified. Private design preview.",
+  "design_updated_on": "2026-10-04",
+  "gallery_layout": "Uniform 4:3 image frames in aligned responsive rows"
+}
